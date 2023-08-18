@@ -5,3 +5,5 @@ quarantine. [link](https://www.een.be/kamp-waes)
 
 I combined all the gifs and intro-images into a single page so I have a nice
 little overview.
+
+You can view it on [https://hellingsstefan.github.io/kamp-waes-no-nonsense/](https://hellingsstefan.github.io/kamp-waes-no-nonsense/)
